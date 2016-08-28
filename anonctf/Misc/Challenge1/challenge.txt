@@ -1,0 +1,3 @@
+Alright here is an easy one:
+Find out about deep web and give me a deep web link in this format: anonctf{Your deep web link here}
+Note: deep web domain names end with ".onion"

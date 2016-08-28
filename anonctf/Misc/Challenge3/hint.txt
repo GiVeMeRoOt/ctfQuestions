@@ -1,0 +1,1 @@
+solution: Write a simple script to take each row as input, increase the year by one and check if it is a friday.If it is, increment the count of number of fridays and finally give the flag in this format: anonctf{Number of fridays}

@@ -1,0 +1,1 @@
+Is it a javascript file? Yes it is..But how do you run it?

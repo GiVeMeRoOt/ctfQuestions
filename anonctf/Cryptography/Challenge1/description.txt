@@ -1,0 +1,1 @@
+challenge.txt contains the challenge which needs to be decrypted. An anon club member just learnt crypto and destroyed this message by mistake.Can you get it back for him???

@@ -1,0 +1,1 @@
+Decrypt the encrypted text in challenge.txt

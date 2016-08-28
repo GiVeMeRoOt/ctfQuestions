@@ -1,0 +1,1 @@
+Open the image file and get the flag.
