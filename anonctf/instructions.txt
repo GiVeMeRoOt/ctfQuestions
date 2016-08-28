@@ -1,0 +1,38 @@
+Hey..
+Thanks for showing interest in this hacking challenge presented to you by hacker's club(Anonymous) of BMSCE.
+This is an individual event, hence the student involved in sharing flags shall be disqualified.
+Get the password for the zip file from: http://securityhackz.blogspot.in/ at 08:00 pm IST on 26-08-16.
+The competition ends on 28-08-16 at 08:00 pm IST. So make sure that you submit all your flags by then.
+Read all the FAQs below before you start the competition.
+There are a very few spots in our club, so you need to try very hard if you wanna get in.
+
+What is a CTF?
+CTF(Capture the flag) is a competition where you can solve different types of challenges provided to you to obtain a flag. The flag has to be submitted inorder to get points. There are three common types of CTFs: Jeopardy, Attack-Defence and mixed. Here, we are conducting a jeopardy style ctf competition.Google it for more info.
+
+Format of the flag?
+anonctf{Any string here}
+
+How do I win?
+Try solving as many challenges as possible. Each correct flag adds 10 points to your account. If two or more people have the same total points, then the person to submit the form first will be given preference.
+
+Why this competition?
+Well, this is the first round for getting into the hacker's club of BMSCE ;) More surprises to come up soon.
+
+How do I start?
+Start with welcome.txt .You can then move ahead to any of the folders. Search the folder name on google for more info on the topics. 
+
+I am stuck. What do I do now?
+Each challenge comes with a description.txt and hints.txt, go through them and try to understand what they mean. You can always message the organisers if you are still stuck.
+
+What do we expect? (VERY IMPORTANT. READ IT CAREFULLY!)
+We want you to solve as many challenges as possible and save all the flags locally on your computer along with their Folder names(Important). Once you feel that you cannot solve anymore, Submit all your flags in this google form link: https://goo.gl/forms/n5tnSgEnIGpIuJFx2
+NOTE:ONLY THE FIRST FORM SUBMITTED BY EACH STUDENT SHALL BE CONSIDERED. SO,SUBMIT THE FORM ONLY AFTER YOU THINK YOU ARE DONE SOLVING THE CHALLENGES.
+
+Is it necessary for me to get into the club if I win this competition?
+Nope, but we would love to have you.
+
+What if we have any more questions?
+Feel free to message the organisers of the competition on TELEGRAM.
+Aditya kamat: +918088871885
+Chitrarth tomar: +918951637710
+
