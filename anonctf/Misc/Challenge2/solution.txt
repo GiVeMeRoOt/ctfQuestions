@@ -1,0 +1,2 @@
+This program has been written in a language known as brainfuck
+Go ahead and compile the code here: http://www.bf.doleczek.pl/
