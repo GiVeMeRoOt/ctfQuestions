@@ -1,0 +1,1 @@
+Here is my solution: https://github.com/GiVeMeRoOt/CTF-WRITEUPS/blob/master/abctf/Fridays/mySolution.py
