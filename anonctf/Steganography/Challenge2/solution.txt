@@ -1,0 +1,2 @@
+We have changed the color of the plane of the image.
+You can also just increase the brightness of the image to see the flag
