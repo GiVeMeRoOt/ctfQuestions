@@ -1,0 +1,2 @@
+It is not an exe file.
+It is only some junk. All you gotta do is to open it with notepad and search for "anonctf"
