@@ -1,0 +1,5 @@
+The flag was encrypted using two methods:
+It was encrypted using atbash and base64 encoded.
+
+for base64 decoding:https://www.base64decode.org/
+For atbash:http://rumkin.com/tools/cipher/atbash.php
