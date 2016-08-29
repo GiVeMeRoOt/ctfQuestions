@@ -1,0 +1,2 @@
+The language used here is known as jsfuck.
+Here is a compiler for you: http://www.jsfuck.com/
