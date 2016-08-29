@@ -1,0 +1,6 @@
+MD5 is the algorithm used to hash the flag here.
+A few websites which might help in decrypting md5 hashes are:
+http://www.md5decrypt.org/
+https://hashkiller.co.uk/md5-decrypter.aspx (most prefered one)
+https://crackstation.net/
+http://md5online.org/
