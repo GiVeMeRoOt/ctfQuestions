@@ -1,0 +1,1 @@
+This is a normal html page. The flag is in the comments, can be seen by viewing the source of the page
