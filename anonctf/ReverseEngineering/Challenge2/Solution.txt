@@ -1,5 +1,5 @@
 When we run the executible we get a prompt asking for password.
-Open file with notepad++, search for the string in the prompt.
+Open file with notepad++, search for the strings you saw in the prompt.
 We see many string which look like password. Try all of them, password123 is the password.
 But the prompt closes as soon as we enter the password and press enter.
 To stop that from happening open the file in debugger(ollydbg) and run the code step by step.
